@@ -53,10 +53,8 @@ ecommerce/
 ├── sign_up.php / sign_up_1.php / sign_up_2.php
 ├── track_order.php
 ├── images/                   # All product images
-├── vendor/                   # Composer-managed dependencies (excluded in .gitignore)
 ├── phpmailer/                # Email functionality
 ├── phpqrcode/                # QR code generator
-├── twilio-php-main/          # Twilio API integration
 └── README.md
 ```
 
