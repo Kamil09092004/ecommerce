@@ -61,6 +61,7 @@ ecommerce/
 ---
 
 ## ⚙️ Installation & Setup
+Download phpqrcode folder by clicking here(https://drive.google.com/drive/folders/1dW2cUe2pIVmabaQfujxH_AGdNo6dUpG0?usp=drive_link)
 
 ## 🎥 Demo Video
 
