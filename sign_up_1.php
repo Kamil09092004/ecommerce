@@ -109,8 +109,8 @@ if(isset($_POST['verify'])){
 
     try {
         // SMTP Configuration
-        $org_email="shaik.kamilahmed123@gmail.com";
-        $app_password='tktbggdikkzpjrfg';
+        $org_email="ORGANISATION EMAIL OR YOUR EMAIL";
+        $app_password="EMAIL APP PASSWORD";
         $contact_query_mobile="MOBILE NUMBER FOR QUERY";
 
 
