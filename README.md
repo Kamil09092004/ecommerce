@@ -2,7 +2,7 @@
 
 This project is a full-featured **eCommerce web application** developed in **PHP**, with dynamic product tracking, view-based pricing, and social sharing capabilities. It allows users to browse products, track orders, share products, and benefit from dynamic pricing strategies based on popularity.
 
-It uses **MySQL** for the database, **Composer** for dependency management, and additional integrations like **Twilio**, **QR code generation**, and **PHPMailer**.
+It uses **MySQL** for the database and additional integrations like **QR code generation**, and **PHPMailer**.
 
 ---
 
