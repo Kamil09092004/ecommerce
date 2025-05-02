@@ -64,4 +64,4 @@ ecommerce/
 
 ## 🎥 Demo Video
 
-[Click to watch/download the demo video](demo/Screen%20Recording%202025-05-01%20200416.mp4)
+[Click to watch/download the demo video](https://drive.google.com/file/d/1F4em5wmtl1pk5FAhui6klLsD80rOoQ-V/view?usp=drive_link)
