@@ -64,5 +64,5 @@ ecommerce/
 Download phpqrcode folder by clicking here(https://drive.google.com/drive/folders/1dW2cUe2pIVmabaQfujxH_AGdNo6dUpG0?usp=sharing)
 
 ## 🎥 Demo Video
-(Watch in laptop for better experience)
+(Watch in laptop or PC for better experience)
 [Click to watch/download the demo video](https://drive.google.com/file/d/1F4em5wmtl1pk5FAhui6klLsD80rOoQ-V/view?usp=sharing)
