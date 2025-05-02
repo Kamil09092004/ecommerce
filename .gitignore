@@ -1,0 +1,37 @@
+# Ignore OS/system files
+.DS_Store
+Thumbs.db
+
+# Ignore XAMPP-specific config files (if any)
+*.log
+*.bak
+
+# Ignore environment/config files
+.env
+config.php
+
+# Ignore IDE/editor folders
+.vscode/
+.idea/
+
+# Ignore vendor/ (if using Composer)
+vendor/
+
+# Ignore node_modules/ (if using frontend tools like npm)
+node_modules/
+
+# Ignore large media or private demo files
+*.mp4
+*.avi
+*.mov
+
+# Ignore database dumps except your specific file
+*.sql
+!ecommerce.sql
+
+# Ignore QR code or mailer libraries if they're bulky and generated elsewhere
+phpmailer/
+phpqrcode/
+
+# Ignore git-related helper files
+.gitattributes
