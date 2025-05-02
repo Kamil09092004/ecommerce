@@ -1,4 +1,4 @@
-# PHP eCommerce Website with Tracking, Sharing, and Dynamic Pricing
+# PHP E-Commerce Website with Tracking, Sharing, and Dynamic Pricing
 
 This project is a full-featured **eCommerce web application** developed in **PHP**, with dynamic product tracking, view-based pricing, and social sharing capabilities. It allows users to browse products, track orders, share products, and benefit from dynamic pricing strategies based on popularity.
 
